@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f72d588-e81c-43f8-97a3-3008c0f5c451" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e8yoUbLD7P9RDqlOQnTQfcdtlv" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="JavaCollections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Average2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.Average2DArray" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.BinaryTree" />
+      <module name="JavaCollections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.DepthFirstSearch" />
+      <module name="JavaCollections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSortByLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.StringSortByLength" />
+      <module name="JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Average2DArray" />
+        <item itemvalue="Application.StringSortByLength" />
+        <item itemvalue="Application.DepthFirstSearch" />
+        <item itemvalue="Application.BinaryTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f72d588-e81c-43f8-97a3-3008c0f5c451" name="Default Changelist" comment="" />
+      <created>1593717690012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593717690012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593923121039">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="621" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1593923121039" />
+    <state x="709" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1593960101309">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="709" y="248" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1017@0.23.1792.1017" timestamp="1593960101309" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom" timestamp="1594849803839">
+      <screen x="1792" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1594015955933" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/1792.23.3440.1417/0.23.1792.1017@1792.23.3440.1417" timestamp="1594849803839" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center" timestamp="1594849803838">
+      <screen x="1792" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1594015955932" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center/1792.23.3440.1417/0.23.1792.1017@1792.23.3440.1417" timestamp="1594849803838" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left" timestamp="1594849803838">
+      <screen x="1792" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1594015955932" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left/1792.23.3440.1417/0.23.1792.1017@1792.23.3440.1417" timestamp="1594849803838" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right" timestamp="1594849803839">
+      <screen x="1792" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1594015955933" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right/1792.23.3440.1417/0.23.1792.1017@1792.23.3440.1417" timestamp="1594849803839" />
+    <state x="2554" y="228" key="SettingsEditor" timestamp="1594780446311">
+      <screen x="1792" y="23" width="3440" height="1417" />
+    </state>
+    <state x="397" y="170" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1594751277816" />
+    <state x="2554" y="228" key="SettingsEditor/1792.23.3440.1417/0.23.1792.1017@1792.23.3440.1417" timestamp="1594780446311" />
+    <state x="2892" y="498" key="com.intellij.ide.util.TipDialog" timestamp="1594817068872">
+      <screen x="1792" y="23" width="3440" height="1417" />
+    </state>
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1593717696155" />
+    <state x="573" y="366" key="com.intellij.ide.util.TipDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1594323847571" />
+    <state x="2892" y="498" key="com.intellij.ide.util.TipDialog/1792.23.3440.1417/0.23.1792.1017@1792.23.3440.1417" timestamp="1594817068872" />
+    <state x="602" y="154" key="refactoring.ChangeSignatureDialog" timestamp="1593870953318">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="602" y="154" key="refactoring.ChangeSignatureDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1593870953318" />
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1593719444165">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="561" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1593719444165" />
+  </component>
+</project>

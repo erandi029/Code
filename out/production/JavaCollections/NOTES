@@ -1,0 +1,19 @@
+1. Minimum Spanning trees:
+    a). Prim's Algo,
+    b). Kruskal
+
+
+2. Graph traversal:
+    a). Depth First search - stacks
+    b). Breath first search - queues
+
+3. Shotest path from one
+
+
+
+
+1. Minimum Spanning trees:
+
+    Spanning tree is a tree that connects all the vertices.
+    Minimum Spanning Tre: Has teh smallest total weight of edges.
+
